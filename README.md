@@ -11,7 +11,7 @@ I am involving myselfcontinuously in Anticipatory Design (AD) <img src="https://
 
 - :seedling: Qualifications: MA (Open), Dipl Arch (Leeds)
   
-- :zap: 1972 Founded Practice
+- :zap: 1972: Founded Practice
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
 
