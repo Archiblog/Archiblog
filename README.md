@@ -7,10 +7,10 @@
 
 ### About Me :
 I am an anticipatory designer and archiblogger <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
-- :telescope: Born November 1946
+- :telescope: Born: November 1946
 
-- :seedling: Exploring Technical Content Writing.
-
+- :seedling: Qualifications: MA (Open), Dipl Arch (Leeds)
+- 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
