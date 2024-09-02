@@ -10,8 +10,8 @@ I am an anticipatory designer and archiblogger <img src="https://media.giphy.com
 - :telescope: Born: November 1946
 
 - :seedling: Qualifications: MA (Open), Dipl Arch (Leeds)
-- 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  
+- :zap: 1972 Founded Practice
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
 
