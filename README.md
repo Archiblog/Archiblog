@@ -6,6 +6,10 @@
 ---
 
 ### About Me :
+
+Archiblog is part of the ongoing research work of Norman Fellows.
+Current development continues at: github.com/normanfe
+
 I am involving myself continuously in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Born: November 1946
 
