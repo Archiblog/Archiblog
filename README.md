@@ -10,11 +10,11 @@
 I am involving myself continuously in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Online presence since December 2001
 
-- :seedling: Qualifications: MA (Open), Dipl Arch (Leeds)
+- :seedling: Qualifications:  MA (Open), Dipl Arch (Leeds)
   
 - :zap: 1972: Founded Practice
 
-- :mailbox: How to reach the author: [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
+- :mailbox: How to reach the author:  [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
 
 
 <div id="badges">
