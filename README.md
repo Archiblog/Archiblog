@@ -14,7 +14,7 @@ I am involving myself continuously in Anticipatory Design (AD) <img src="https:/
   
 - :zap: 1972: Founded Practice
 
-- :mailbox: How to reach Norman Fellows: [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
+- :mailbox: How to reach the author: [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
 
 
 <div id="badges">
