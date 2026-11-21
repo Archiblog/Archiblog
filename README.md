@@ -19,7 +19,7 @@ I am involving myself continuously in Anticipatory Design (AD) <img src="https:/
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/archiblog/">
-    <img src="[![WordPress](https://img.shields.io/badge/WORDPRESS-PUBLICATIONS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://archiblog.wordpress.com/)" alt="WordPress Badge"/>
+    <img src="(https://img.shields.io/badge/WORDPRESS-PUBLICATIONS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://archiblog.wordpress.com/)" alt="WordPress Badge"/>
   </a>
   <a href="https://www.youtube.com/@Archiblog">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Designing Buildins Badge"/>
