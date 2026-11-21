@@ -28,9 +28,6 @@ I am involving myself continuously in Anticipatory Design (AD) <img src="https:/
   
 </div>
 
-[![WordPress](https://img.shields.io/badge/WORDPRESS-PUBLICATIONS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://archiblog.wordpress.com/)
-
-[![Designing Buildings](https://img.shields.io/badge/DESIGNING_BUILDINGS-ARTICLES-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/)
 <!--
 **Archiblog/Archiblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
