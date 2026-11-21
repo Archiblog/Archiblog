@@ -7,7 +7,7 @@
 
 ### About Archiblog :
 
-[![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://archiblog.wordpress.com/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Designing Buildings](https://img.shields.io/badge/DESIGNING_BUILDINGS-ARTICLES-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/Archiblog%27s_Ordering#Archiblog.27s_articles_on_Designing_Buildings)
+[![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://archiblog.wordpress.com/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Designing Buildings](https://img.shields.io/badge/DESIGNING_BUILDINGS-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/Archiblog%27s_Ordering#Archiblog.27s_articles_on_Designing_Buildings)
 
 I am involving myself continuously in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Online presence since December 2001
