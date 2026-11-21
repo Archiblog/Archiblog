@@ -7,14 +7,14 @@
 
 ### About Archiblog :
 
-I am involving myself continuously in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: Online presence since December 2001
+Moving work on Anticipatory Design (AD) into Architecture<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Online presence since December 2001 :telescope:
 
-- :seedling: Architecture as part of the Commons
+- Architecture as part of the Commons :seedling: 
   
-- :zap: Research, projects and architectural essays
+- Research, projects and architectural essays :zap: 
 
-- :mailbox: Publications: WordPress and Designing Buildings
+- Publications: WordPress and Designing Buildings:mailbox:
 
 [![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://archiblog.wordpress.com/) &nbsp;[![Designing Buildings](https://img.shields.io/badge/DESIGNING_BUILDINGS-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/Archiblog%27s_Ordering#Archiblog.27s_articles_on_Designing_Buildings)
 
