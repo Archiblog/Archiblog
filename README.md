@@ -16,7 +16,9 @@ I am involving myself continuously in Anticipatory Design (AD) <img src="https:/
 
 - :mailbox: How to reach the author:  [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
 
+<div id="badges">
 [![WordPress](https://img.shields.io/badge/WORDPRESS-PUBLICATIONS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://archiblog.wordpress.com/)[![Designing Buildings](https://img.shields.io/badge/DESIGNING_BUILDINGS-ARTICLES-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/)
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/archiblog/">
