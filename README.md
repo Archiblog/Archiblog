@@ -16,7 +16,7 @@ Moving work on Anticipatory Design (AD) into Architecture<img src="https://media
 
 - Publications: WordPress and Designing Buildings :mailbox:
 
-[![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://archiblog.wordpress.com/) &nbsp;[![Designing Buildings](https://img.shields.io/badge/DESIGNING_BUILDINGS-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/Archiblog%27s_Ordering#Archiblog.27s_articles_on_Designing_Buildings)
+[![Designing Buildings](https://img.shields.io/badge/DESIGNING_BUILDINGS-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/Archiblog%27s_Ordering#Archiblog.27s_articles_on_Designing_Buildings)
 
 <!--
 **Archiblog/Archiblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
